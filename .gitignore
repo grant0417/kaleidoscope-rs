@@ -1,0 +1,6 @@
+/target
+
+# llvm artifacts
+*.ll
+*.out
+*.o
